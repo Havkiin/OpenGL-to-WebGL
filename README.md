@@ -1,3 +1,3 @@
 # Output
 
-![Output](public/output.gif)
+![Output](media/output.gif)
